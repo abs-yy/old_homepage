@@ -1,6 +1,26 @@
 | [Main](README.md) | [CV](CV.md) | [Access](access.md) | 
 ---------------------------------------------------------
 
+## Experience
+- Wet experiments
+  - >6 years of rearing tardigrades (*R. varieornatus*, *H. exemplaris*, from 2013)
+  - >4 years of culturing human cell lines (from 2016)
+  - Genetic experiments
+    - Plasmid construction
+    - Expression in E. coli cells
+    - Cell biology experiments uing human cell lines
+      - Transfection and antibiotic selection
+      - Flow Cytometory with MACS
+      - MTT assay
+  - Biochemical experiments
+    - Immunoprecipitation
+    - Pull down by tags 
+- Programming 
+  - 8 year using Perl language
+  - 7 year using R language
+  - Can understand Python language
+  - Accustomed to using Unix environments and various genome/transcriptome analysis softwares
+
 ## Education
 - [2009.4-2012.3] Keio Senior High School
 - [2012.4-2016.3] Keio University, Department of Environment and Information Studies
