@@ -6,7 +6,8 @@
   Famous extremophiles are bacterial species, such as the radiotolerant Deinococcus radiodurans<sup>1</sup>, capable of tolerating >5000 Gy gamma rays. Single cell organisms, compaired to multi-cell species, have relatively higher tolerance since they do not have tissues comprised from differentiated cells. However, several species have been reported to have high capabilites compaired to general eukaryotes. 
 
 ## Tardigrades 
-
+  We have been focusing on the ecdyozoan animal, Tardigrades. Terrestrial Tardigrade species are famous for their capabiliteis of tolerating complete desiccation, a phenonemon called anhydrobiosis. Anhydrobiosis is on of a latent state of life (Cryptobiosis); others include cryobiosis (low tempretures), anoxybiosis (low oxigen levels), osmobiosis (Osmotic pressure), and Chemobiosis (high levels of toxins), which tardigrades are capable of entering all states. Anhydrobiotic individuals are known to tolerate various environmental states, i.e. high and low pressures and tempreture, alchohols, ultraviolet lights, radiation, and even vacume space. 
+   
 
 
 
