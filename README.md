@@ -1,7 +1,4 @@
-# Welcome to the homepage of Yuki Yoshida
-
-
-[CV](CV.md)
+| Menu | [CV](CV.md) | [Access](access.md) | 
 
 ## Tolerance against extreme environments
 
