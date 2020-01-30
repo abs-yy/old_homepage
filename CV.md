@@ -16,9 +16,9 @@
   - Biochemical experiments
     - Immunoprecipitation
     - Pull down by tags 
-- Programming 
-  - 8 year using Perl language
-  - 7 year using R language
+- Informatics
+  - 8 years using Perl language
+  - 7 years using R language
   - Can understand Python language
   - Accustomed to using Unix environments and various omics analysis softwares
 
