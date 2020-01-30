@@ -8,6 +8,7 @@
   - Genetic experiments
     - Plasmid construction
     - Expression in E. coli cells
+      - Construction of competent cells
     - Cell biology experiments uing human cell lines
       - Transfection and antibiotic selection
       - Flow Cytometory with MACS
@@ -19,7 +20,7 @@
   - 8 year using Perl language
   - 7 year using R language
   - Can understand Python language
-  - Accustomed to using Unix environments and various genome/transcriptome analysis softwares
+  - Accustomed to using Unix environments and various omics analysis softwares
 
 ## Education
 - [2009.4-2012.3] Keio Senior High School
