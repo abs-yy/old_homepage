@@ -1,13 +1,15 @@
 ## Education
-- 2009.4-2012.3 Keio Senior High School
-- 2012.4-2016.3 Keio University, Department of Environment and Information Studies Thesis: Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis 
-- 2016.4-2018.3 Keio University, Graduate School of Media and Governance,Systems Biology Program, M.S. Thesis: Comparative genomics of anhydrobiosis and DNA damage response in tardigrades 
-- 2018.4-Current Keio Univeristy, Graduate School of Media and Governance, Systems Biology Program, Ph. D. 
+- [2009.4-2012.3] Keio Senior High School
+- [2012.4-2016.3] Keio University, Department of Environment and Information Studies
+  - Thesis: Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis 
+- [2016.4-2018.3] Keio University, Graduate School of Media and Governance, Systems Biology Program, Masters Course
+  - Comparative genomics of anhydrobiosis and DNA damage response in tardigrades 
+- [2018.4-Current] Keio Univeristy, Graduate School of Media and Governance, Systems Biology Program, Ph. D. Course
 
 ## Employment History
-- 2013.4-2017.9, 2018.4-Current Keio University, Research Assistant
-- 2016.10-2017.3, 2017.10-Current Tutorial Services for Graduate Students
-- 2018.4-Current Japan Society for the Promotion of Science, Research Fellowship for Young Scientists DC1
+- [2013.4-2017.9] 2018.4-Current Keio University, Research Assistant
+- [2016.10-2017.3] 2017.10-Current Tutorial Services for Graduate Students
+- [2018.4-Current] Japan Society for the Promotion of Science, Research Fellowship for Young Scientists DC1
 
 ## Publications
 ### Academic papers
@@ -97,12 +99,12 @@
 - [Academic Year 2013/4-2017/9, 2018/4-] TTCK Research Assistant
 
 ## Awards
-- 2019.9 2019年度 慶大先端生命研-薬学研究科 合同リトリート「統合システム適塾」in 鶴岡キャンパス, 最優秀ポスター発表
-- 2018.3 Keio University SFC Aiso Award
-- 2018.3 Representative for Keio University Graduate School of Media and Governance Master’s course graduates
-- 2018.3 Master thesis award (Systems Biology Program)
-- 2017.8 Keio Life Science Symposium Presentation Award
-- 2016.3 Graduation thesis Award (Advanced Biosciences Research group)
+- [2019.9] 2019年度 慶大先端生命研-薬学研究科 合同リトリート「統合システム適塾」in 鶴岡キャンパス, 最優秀ポスター発表
+- [2018.3] Keio University SFC Aiso Award
+- [2018.3] Representative for Keio University Graduate School of Media and Governance Master’s course graduates
+- [2018.3] Master thesis award (Systems Biology Program)
+- [2017.8] Keio Life Science Symposium Presentation Award
+- [2016.3] Graduation thesis Award (Advanced Biosciences Research group)
  
 ## Classes assisted as SA/TA at Keio SFC
 - Systems of life (2013s)
@@ -125,6 +127,6 @@
 - Driving License
 
 ## Professional Memberships
-- The Molecular Biology Society for Japan
-- Young Researchers Group for Computational/Omics/Systems Biology in Japan
-- The Zoological Society of Japan
+- [The Molecular Biology Society for Japan](https://www.mbsj.jp)
+- [Young Researchers Group for Computational/Omics/Systems Biology in Japan](https://www.bioinfowakate.org)
+- [The Zoological Society of Japan](https://www.zoology.or.jp)
