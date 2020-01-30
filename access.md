@@ -3,7 +3,7 @@
 
 ## Contact Information
 
-| Mail address | abs@sfc.keio.ac.jp                                         |
+| Mail address | abs[a/t]sfc.keio.ac.jp                                         |
 |--------------|------------------------------------------------------------|
 | Address      | Tsuruoka Metabolome Campus D25                             |
 |              | Zip: 997-0052                                              |
