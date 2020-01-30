@@ -3,8 +3,8 @@
 
 ## Experience
 - Wet experiments
-  - >6 years of rearing tardigrades (*R. varieornatus*, *H. exemplaris*, from 2013)
-  - >4 years of culturing human cell lines (from 2016)
+  - \> 6 years of rearing tardigrades (*R. varieornatus*, *H. exemplaris*, from 2013)
+  - \> 4 years of culturing human cell lines (from 2016)
   - Genetic experiments
     - Plasmid construction
     - Expression in E. coli cells
