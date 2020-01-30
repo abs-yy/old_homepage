@@ -3,7 +3,8 @@
 
 ## Contact Information
 
-|              | Yuki Yoshida                                              |
+|              | Yuki Yoshida                                               |
+|--------------|------------------------------------------------------------|
 | ORCID        | [https://orcid.org/0000-0003-2749-8171](https://orcid.org/0000-0003-2749-8171) |
 | Mail address | abs[a/t]sfc.keio.ac.jp                                     |
 | Address      | Tsuruoka Metabolome Campus D25                             |
