@@ -2,10 +2,10 @@
 ---------------------------------------------------------
 
 ## Contact Information
-|              | Yuki Yoshida                                               |
+|       a       | Yuki Yoshida                                              |
 |--------------|------------------------------------------------------------|
 | Mail address | abs[a/t]sfc.keio.ac.jp                                     |
-| ORCID        |   [https://orcid.org/0000-0003-2749-8171](https://orcid.org/0000-0003-2749-8171) |
+| ORCID        | [https://orcid.org/0000-0003-2749-8171](https://orcid.org/0000-0003-2749-8171) |
 | Address      | Tsuruoka Metabolome Campus D25                             |
 |              | Zip: 997-0052                                              |
 |              | Kakuganji246-2, Mizukami, Tsuruoka City Yamagata, JAPAN.   |
