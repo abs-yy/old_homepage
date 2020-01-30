@@ -1,58 +1,58 @@
 ## Education
-2009.4-2012.3 Keio Senior High School
-2012.4-2016.3 Keio University, Department of Environment and Information Studies Thesis: Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis 
-2016.4-2018.3 Keio University, Graduate School of Media and Governance,Systems Biology Program, M.S. Thesis: Comparative genomics of anhydrobiosis and DNA damage response in tardigrades 
-2018.4-Current Keio Univeristy, Graduate School of Media and Governance, Systems Biology Program, Ph. D. 
+- 2009.4-2012.3 Keio Senior High School
+- 2012.4-2016.3 Keio University, Department of Environment and Information Studies Thesis: Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis 
+- 2016.4-2018.3 Keio University, Graduate School of Media and Governance,Systems Biology Program, M.S. Thesis: Comparative genomics of anhydrobiosis and DNA damage response in tardigrades 
+- 2018.4-Current Keio Univeristy, Graduate School of Media and Governance, Systems Biology Program, Ph. D. 
 
 ## Employment History
-2013.4-2017.9, 2018.4-Current Keio University, Research Assistant
-2016.10-2017.3, 2017.10-Current Tutorial Services for Graduate Students
-2018.4-Current Japan Society for the Promotion of Science, Research Fellowship for Young Scientists DC1
+- 2013.4-2017.9, 2018.4-Current Keio University, Research Assistant
+- 2016.10-2017.3, 2017.10-Current Tutorial Services for Graduate Students
+- 2018.4-Current Japan Society for the Promotion of Science, Research Fellowship for Young Scientists DC1
 
 ## Publications
 ### Academic papers
-Yoshida, Y, Sugiura, K, Tomita, M, Matsumoto, M, Arakawa, K (2019). Comparison of the transcriptomes of two tardigrades with different hatching coordination. BMC Dev. Biol., 19, 1:24.
-Kono, N, Nakamura, H, Ohtoshi, R, Moran, DAP, Shinohara, A, Yoshida, Y, Fujiwara, M, Mori, M, Tomita, M, Arakawa, K (2019). Orb-weaving spider Araneus ventricosus genome elucidates the spidroin gene catalogue. Sci Rep, 9, 1:8380.
-Yoshida Y., Konno S., Nishino R., Murai Y., Tomita M., Arakawa K. (2018) Ultralow Input Genome Sequencing Library Preparation from a Single Tardigrade Specimen. J. Vis. Exp. (137), e57615, doi:10.3791/57615. https://doi.org/10.3791/57615 (Pubmed, Altmetric)
-Yoshida Y, Koutsovoulos G, Laetsch DR, Stevens L, Kumar S, Horikawa DD, et al. (2017) Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus. PLoS Biol .,15(7): e2002266. https://doi.org/10.1371/journal.pbio.2002266 (Pubmed, Altmetric)
-Arakawa K, Yoshida Y, Tomita M. Genome sequencing of a single tardigrade Hypsibius dujardini individual, Sci. Data, 2016, 3:160063. https://doi.org/10.1038/sdata.2016.63 (PubMed, Altmetric)
+1. Yoshida, Y, Sugiura, K, Tomita, M, Matsumoto, M, Arakawa, K (2019). Comparison of the transcriptomes of two tardigrades with different hatching coordination. BMC Dev. Biol., 19, 1:24.
+1. Kono, N, Nakamura, H, Ohtoshi, R, Moran, DAP, Shinohara, A, Yoshida, Y, Fujiwara, M, Mori, M, Tomita, M, Arakawa, K (2019). Orb-weaving spider Araneus ventricosus genome elucidates the spidroin gene catalogue. Sci Rep, 9, 1:8380.
+1. Yoshida Y., Konno S., Nishino R., Murai Y., Tomita M., Arakawa K. (2018) Ultralow Input Genome Sequencing Library Preparation from a Single Tardigrade Specimen. J. Vis. Exp. (137), e57615, doi:10.3791/57615. https://doi.org/10.3791/57615 (Pubmed, Altmetric)
+1. Yoshida Y, Koutsovoulos G, Laetsch DR, Stevens L, Kumar S, Horikawa DD, et al. (2017) Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus. PLoS Biol .,15(7): e2002266. https://doi.org/10.1371/journal.pbio.2002266 (Pubmed, Altmetric)
+1. Arakawa K, Yoshida Y, Tomita M. Genome sequencing of a single tardigrade Hypsibius dujardini individual, Sci. Data, 2016, 3:160063. https://doi.org/10.1038/sdata.2016.63 (PubMed, Altmetric)
 
 ### Thesis, Books
-Yoshida Y., Nowell R.W., Arakawa K., Blaxter M. (2019) Horizontal Gene Transfer in Metazoa: Examples and Methods. In: Villa T., Viñas M. (eds) Horizontal Gene Transfer. Springer, Cham
-Yoshida Y. Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis. Keio University Graduate School of Media and Governance, Thesis. ISBN:
-Yoshida Y. Comparative genomics of anhydrobiosis and DNA damage response in tardigrades. Keio University Faculty of Environmental Informatics, Thesis. ISBN:
+1. Yoshida Y., Nowell R.W., Arakawa K., Blaxter M. (2019) Horizontal Gene Transfer in Metazoa: Examples and Methods. In: Villa T., Viñas M. (eds) Horizontal Gene Transfer. Springer, Cham
+1. Yoshida Y. Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis. Keio University Graduate School of Media and Governance, Thesis. ISBN:
+1. Yoshida Y. Comparative genomics of anhydrobiosis and DNA damage response in tardigrades. Keio University Faculty of Environmental Informatics, Thesis. ISBN:
 
 ## Talks
 ### International
-Yoshida Y., Koutsovoulos G., Laetsch DR., Stevens L., Kumar S., Horikawa DD., Ishino K., Komine S., Kunieda T., Tomita M., Blaxter M., Arakawa K. “Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus”, 14th International Symposium on Tardigrada, 2018. Copenhagen, Denmark.
-Blaxter M., Laetsch D., Stevens L., Koutsovoulos G., Kumar S., Arakawa K., Yoshida Y., Lunt D., Bachmann L., Michalczyk Ł., Fujimoto S. “Phylogenomics, gene families and the phylogenetic position of Tardigrada within Ecdysozoa ”, International Symposium on Tardigrada, 2018. Copenhagen, Denmark.
-Yoshida Y., Koutsovoulos G., Laetsch DR., Stevens L., Kumar S., Horikawa DD., Ishino K., Komine S., Kunieda T., Tomita M., Blaxter M., Arakawa K. “Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus”, ISMB2017, 2017. Prague, Czech Republic (Peer review).
-Tsujimoto M., Yoshida Y., Arakawa K. “Comparative transcriptome analysis of the Antarctic tardigrade, Acutuncus antarcticus, in response to changes in temperature”. SCAR Biology Symposium 2017. 2017. Belgium.
-Watabe T.,  Yoshida Y., Suzuki H., Arakawa K., Tomita M., Fukuda S. “Draft genome sequences of Bifidobacterum longum strains from two healthy Japanese adults”. The 2nd Annual Conference on Metagenomics and MetaSUB. 2016. Shanghai. China.
+1. Yoshida Y., Koutsovoulos G., Laetsch DR., Stevens L., Kumar S., Horikawa DD., Ishino K., Komine S., Kunieda T., Tomita M., Blaxter M., Arakawa K. “Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus”, 14th International Symposium on Tardigrada, 2018. Copenhagen, Denmark.
+1. Blaxter M., Laetsch D., Stevens L., Koutsovoulos G., Kumar S., Arakawa K., Yoshida Y., Lunt D., Bachmann L., Michalczyk Ł., Fujimoto S. “Phylogenomics, gene families and the phylogenetic position of Tardigrada within Ecdysozoa ”, International Symposium on Tardigrada, 2018. Copenhagen, Denmark.
+1. Yoshida Y., Koutsovoulos G., Laetsch DR., Stevens L., Kumar S., Horikawa DD., Ishino K., Komine S., Kunieda T., Tomita M., Blaxter M., Arakawa K. “Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus”, ISMB2017, 2017. Prague, Czech Republic (Peer review).
+1. Tsujimoto M., Yoshida Y., Arakawa K. “Comparative transcriptome analysis of the Antarctic tardigrade, Acutuncus antarcticus, in response to changes in temperature”. SCAR Biology Symposium 2017. 2017. Belgium.
+1. Watabe T.,  Yoshida Y., Suzuki H., Arakawa K., Tomita M., Fukuda S. “Draft genome sequences of Bifidobacterum longum strains from two healthy Japanese adults”. The 2nd Annual Conference on Metagenomics and MetaSUB. 2016. Shanghai. China.
 
 ### Domestic
-吉田祐貴，堀川大樹，冨田勝，荒川和晴. “短波長紫外線に曝露したヨコヅナクマムシのトランスクリプトーム解析”. 生命情報科学若手の会 第11回年会, 2019. 山梨. 
-吉田祐貴，堀川大樹，冨田勝，荒川和晴. “短波長紫外線に曝露したヨコヅナクマムシのトランスクリプトーム解析”. クマムシ学研究会, 2019. 大阪. 
-吉田祐貴，杉浦健太，冨田勝，松本緑，荒川和晴.“発生3日目がクマムシHypsibus exemplarisの孵化に重要である”. 日本動物学会, 2019. 大阪.
-吉田祐貴, Georgios Koutsovoulos, Dominik R. Laetsch, Lewis Stevens, Sujai Kumar, 堀川大樹, 石野響子, 小峰栞, 國枝武和, 冨田勝, Mark Blaxter, 荒川和晴. "ヨコヅナクマムシとドゥジャルダンヤマクマムシの比較ゲノム解析". IIBMP2018, 2018, 山形 (ハイライトトラック).
-吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. "短波長紫外線へ曝露されたヨコヅナクマムシのトランスクリプトーム解析". 日本クマムシ学研究会2018, 2018, 神奈川.
-西野稜介, 吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. "経時的遺伝子発現解析によるクマムシたる形成の意義の究明". 日本クマムシ学研究会2018, 2018, 神奈川.
-吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. "短波長紫外線へ曝露された横綱クマムシのトランスクリプトーム解析". 生命科学系フロンティアミーティング 2018, 2018, 静岡.
-岩井碩慶, 河野暢明, 吉田祐貴, 冨田勝, 堀川大樹, 荒川 和晴. "一時的社会寄生種であるトゲアリ (Polyrhachis lamellidens)が行う馬乗り行動についての役割の解明". 生命科学系フロンティアミーティング 2018, 2018, 静岡. 生命科学系フロンティアミーティング 2018, 2018, 静岡.
-飯井虹之介, 吉田祐貴, 河野暢明, Ivan Glaucio Paulino Lima, 冨田勝, Lynn Justine Rothschild, 荒川和晴. "比較ゲノム解析によるMicrococcaceae科における紫外線耐性関連遺伝子群の探索". 生命科学系フロンティアミーティング 2018, 2018, 静岡.
-西野陵介, 吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. "クマムシ樽形成の意義の解明に向けた経時的トランスクリプトーム解析" . 生命科学系フロンティアミーティング 2018, 2018, 静岡.
-荒川和晴, 河野暢明, 藤原正幸, 中村浩之, 大利麟太郎, 高井幸, 斧澤佑紀, 吉田祐貴, 阿部望美, 石 井菜穂子, 冨田勝. "クモ類網羅的シーケンシングによる超高機能発現メカニズムの解明". 日本 蜘蛛学会第 49 回大会, 2017. 沖縄. 
-河野暢明, 藤原正幸, 中村浩之, 大利麟太郎, 高井幸, 斧澤佑紀, 吉田祐貴, 阿部望美, 石井菜穂子, 冨田勝, 荒川和晴. "マルチオミクス解析から見た蜘蛛糸の系統的多様性". 日本蜘蛛学会第 49 回大会, 2017. 沖縄. 
-吉田祐貴, Koutsovoulos G., Laetsch D. R., Stevens L., Kumar S., 堀川大樹, 石野響子, 小峰栞, 國 枝武和, 冨田勝, Blaxter M., 荒川和晴. "ヨコヅナクマムシとドゥジャルダンヤマクマムシの比 較ゲノム解析". 生命情報科学若手の会 第 9 回年会, 2017. 愛知. 
-土澤優里, 吉田祐貴, 石井侑樹, 冨田勝, 石川孝博, 荒川和晴. "Euglena gracilis の葉緑体欠損変異 株の遺伝子発現変動解析". 生命情報科学若手の会 第 9 回年会, 2017. 愛知. 
-吉田祐貴, Koutsovoulos G., Laetsch D. R., Stevens L., Kumar S., 堀川大樹, 石野響子, 小峰栞, 國 枝武和, 冨田勝, Blaxter M., 荒川和晴. "ドゥジャルダンヤマクマムシとヨコヅナクマムシの比 較ゲノム解析". 第 88 回日本動物学会, 2017. 富山 (招待講演). 
-杉浦 健太, 吉田祐貴, 國枝 武和, 鈴木 忠, 荒川 和晴, 松本 緑. "緩歩動物クマムシの有性生殖― 雌雄の違いと求愛・交尾行動の観察―". 第 88 回日本動物学会, 2017 富山. 
-吉田祐貴, Koutsovoulos G., Laetsch D. R., Stevens L., Kumar S., 堀川大樹, 石野響子, 小峰栞, 國 枝武和, 冨田勝, Blaxter M., 荒川 和晴. "乾眠能力の異なる二種のクマムシの比較ゲノム解析". 第 2 回 日本クマムシ学研究会, 2017. 東京. 
-堀川大樹，西野綾介, 吉田祐貴，冨田勝，荒川和晴. "熱ショックタンパク質はクマムシの乾 燥耐性を向上させるか?". 第 2 回クマムシ学研究会, 2017. 東京. 
-吉田祐貴, Koutsovoulos G., Laetsch D. R., Stevens L., Kumar S., 堀川大樹, 石野響子, 小峰栞, 國 枝武和, 冨田勝, Blaxter M., 荒川和晴. "ドゥジャルダンヤマクマムシとヨコヅナクマムシの比 較ゲノム解析". SIG-MBI, 2017. 石川. 
-吉田祐貴，冨田勝，荒川和晴. "極限環境生物クマムシ Hypsibius dujardini のゲノム解析とアセ ンブリー". 生命情報科学若手の会 第 8 研究会, 2016. 北海道.
-吉田祐貴, 堀川大樹, 坂下哲哉, 國枝武和, 桑原宏和, 豊田敦, 片山俊明, 小林泰彦, 冨田勝, 荒川和 晴. "ヨコヅナクマムシの乾眠関連遺伝子の網羅的同定へむけて". 日本クマムシ学研究会, 2016. 神奈川. 
-吉田祐貴, 堀川大樹, 坂下哲哉, 小林泰彦, 冨田勝, 荒川和晴. “高線量γ線に対するヨコヅナクマムシの応答解明に向けた経時的微量トランスクリプトーム解析”. 生命情報若手の会 第七回研究会, 2015. 山形.
+1. 吉田祐貴，堀川大樹，冨田勝，荒川和晴. “短波長紫外線に曝露したヨコヅナクマムシのトランスクリプトーム解析”. 生命情報科学若手の会 第11回年会, 2019. 山梨. 
+1. 吉田祐貴，堀川大樹，冨田勝，荒川和晴. “短波長紫外線に曝露したヨコヅナクマムシのトランスクリプトーム解析”. クマムシ学研究会, 2019. 大阪. 
+1. 吉田祐貴，杉浦健太，冨田勝，松本緑，荒川和晴.“発生3日目がクマムシHypsibus exemplarisの孵化に重要である”. 日本動物学会, 2019. 大阪.
+1. 吉田祐貴, Georgios Koutsovoulos, Dominik R. Laetsch, Lewis Stevens, Sujai Kumar, 堀川大樹, 石野響子, 小峰栞, 國枝武和, 冨田勝, Mark Blaxter, 荒川和晴. "ヨコヅナクマムシとドゥジャルダンヤマクマムシの比較ゲノム解析". IIBMP2018, 2018, 山形 (ハイライトトラック).
+1. 吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. "短波長紫外線へ曝露されたヨコヅナクマムシのトランスクリプトーム解析". 日本クマムシ学研究会2018, 2018, 神奈川.
+1. 西野稜介, 吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. "経時的遺伝子発現解析によるクマムシたる形成の意義の究明". 日本クマムシ学研究会2018, 2018, 神奈川.
+1. 吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. "短波長紫外線へ曝露された横綱クマムシのトランスクリプトーム解析". 生命科学系フロンティアミーティング 2018, 2018, 静岡.
+1. 岩井碩慶, 河野暢明, 吉田祐貴, 冨田勝, 堀川大樹, 荒川 和晴. "一時的社会寄生種であるトゲアリ (Polyrhachis lamellidens)が行う馬乗り行動についての役割の解明". 生命科学系フロンティアミーティング 2018, 2018, 静岡. 生命科学系フロンティアミーティング 2018, 2018, 静岡.
+1. 飯井虹之介, 吉田祐貴, 河野暢明, Ivan Glaucio Paulino Lima, 冨田勝, Lynn Justine Rothschild, 荒川和晴. "比較ゲノム解析によるMicrococcaceae科における紫外線耐性関連遺伝子群の探索". 生命科学系フロンティアミーティング 2018, 2018, 静岡.
+1. 西野陵介, 吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. "クマムシ樽形成の意義の解明に向けた経時的トランスクリプトーム解析" . 生命科学系フロンティアミーティング 2018, 2018, 静岡.
+1. 荒川和晴, 河野暢明, 藤原正幸, 中村浩之, 大利麟太郎, 高井幸, 斧澤佑紀, 吉田祐貴, 阿部望美, 石 井菜穂子, 冨田勝. "クモ類網羅的シーケンシングによる超高機能発現メカニズムの解明". 日本 蜘蛛学会第 49 回大会, 2017. 沖縄. 
+1. 河野暢明, 藤原正幸, 中村浩之, 大利麟太郎, 高井幸, 斧澤佑紀, 吉田祐貴, 阿部望美, 石井菜穂子, 冨田勝, 荒川和晴. "マルチオミクス解析から見た蜘蛛糸の系統的多様性". 日本蜘蛛学会第 49 回大会, 2017. 沖縄. 
+1. 吉田祐貴, Koutsovoulos G., Laetsch D. R., Stevens L., Kumar S., 堀川大樹, 石野響子, 小峰栞, 國 枝武和, 冨田勝, Blaxter M., 荒川和晴. "ヨコヅナクマムシとドゥジャルダンヤマクマムシの比 較ゲノム解析". 生命情報科学若手の会 第 9 回年会, 2017. 愛知. 
+1. 土澤優里, 吉田祐貴, 石井侑樹, 冨田勝, 石川孝博, 荒川和晴. "Euglena gracilis の葉緑体欠損変異 株の遺伝子発現変動解析". 生命情報科学若手の会 第 9 回年会, 2017. 愛知. 
+1. 吉田祐貴, Koutsovoulos G., Laetsch D. R., Stevens L., Kumar S., 堀川大樹, 石野響子, 小峰栞, 國 枝武和, 冨田勝, Blaxter M., 荒川和晴. "ドゥジャルダンヤマクマムシとヨコヅナクマムシの比 較ゲノム解析". 第 88 回日本動物学会, 2017. 富山 (招待講演). 
+1. 杉浦 健太, 吉田祐貴, 國枝 武和, 鈴木 忠, 荒川 和晴, 松本 緑. "緩歩動物クマムシの有性生殖― 雌雄の違いと求愛・交尾行動の観察―". 第 88 回日本動物学会, 2017 富山. 
+1. 吉田祐貴, Koutsovoulos G., Laetsch D. R., Stevens L., Kumar S., 堀川大樹, 石野響子, 小峰栞, 國 枝武和, 冨田勝, Blaxter M., 荒川 和晴. "乾眠能力の異なる二種のクマムシの比較ゲノム解析". 第 2 回 日本クマムシ学研究会, 2017. 東京. 
+1. 堀川大樹，西野綾介, 吉田祐貴，冨田勝，荒川和晴. "熱ショックタンパク質はクマムシの乾 燥耐性を向上させるか?". 第 2 回クマムシ学研究会, 2017. 東京. 
+1. 吉田祐貴, Koutsovoulos G., Laetsch D. R., Stevens L., Kumar S., 堀川大樹, 石野響子, 小峰栞, 國 枝武和, 冨田勝, Blaxter M., 荒川和晴. "ドゥジャルダンヤマクマムシとヨコヅナクマムシの比 較ゲノム解析". SIG-MBI, 2017. 石川. 
+1. 吉田祐貴，冨田勝，荒川和晴. "極限環境生物クマムシ Hypsibius dujardini のゲノム解析とアセ ンブリー". 生命情報科学若手の会 第 8 研究会, 2016. 北海道.
+1. 吉田祐貴, 堀川大樹, 坂下哲哉, 國枝武和, 桑原宏和, 豊田敦, 片山俊明, 小林泰彦, 冨田勝, 荒川和 晴. "ヨコヅナクマムシの乾眠関連遺伝子の網羅的同定へむけて". 日本クマムシ学研究会, 2016. 神奈川. 
+1. 吉田祐貴, 堀川大樹, 坂下哲哉, 小林泰彦, 冨田勝, 荒川和晴. “高線量γ線に対するヨコヅナクマムシの応答解明に向けた経時的微量トランスクリプトーム解析”. 生命情報若手の会 第七回研究会, 2015. 山形.
 
 ## Posters
 ### International
