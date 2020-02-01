@@ -6,6 +6,7 @@
 |              | Yuki Yoshida                                               |
 |-------------:|-----------------------------------------------------------:|
 | ORCID        | [https://orcid.org/0000-0003-2749-8171](https://orcid.org/0000-0003-2749-8171) |
+| Google Scholar | [https://scholar.google.co.jp/citations?user=-QhaEe0AAAAJ&hl=ja] |
 | Mail address | abs[a/t]sfc.keio.ac.jp                                     |
 | Address      | Tsuruoka Metabolome Campus D25                             |
 |              | Zip: 997-0052                                              |
