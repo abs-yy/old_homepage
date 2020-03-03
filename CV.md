@@ -1,27 +1,6 @@
 | [Main](README.md) | [CV](CV.md) | [Access](access.md) | 
 ---------------------------------------------------------
 
-## Experience
-- Wet experiments
-  - \> 6 years of rearing tardigrades (*R. varieornatus*, *H. exemplaris*, from 2013)
-  - \> 4 years of culturing human cell lines (from 2016)
-  - Genetic experiments
-    - Plasmid construction
-    - Expression in E. coli cells
-      - Construction of competent cells
-    - Cell biology experiments uing human cell lines
-      - Transfection and antibiotic selection
-      - Flow Cytometory with MACS
-      - MTT assay
-  - Biochemical experiments
-    - Immunoprecipitation
-    - Pull down by tags 
-- Informatics
-  - 8 years using Perl language
-  - 7 years using R language
-  - Can understand Python language
-  - Accustomed to using Unix environments and various omics analysis softwares
-
 ## Education
 - [2009.4-2012.3] Keio Senior High School
 - [2012.4-2016.3] Keio University, Department of Environment and Information Studies
@@ -47,6 +26,20 @@
 1. **Yoshida Y.**, Nowell R.W., Arakawa K., Blaxter M. (2019) Horizontal Gene Transfer in Metazoa: Examples and Methods. In: Villa T., Viñas M. (eds) Horizontal Gene Transfer. Springer, Cham
 1. **Yoshida Y.** Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis. Keio University Graduate School of Media and Governance, Thesis. ISBN:
 1. **Yoshida Y.** Comparative genomics of anhydrobiosis and DNA damage response in tardigrades. Keio University Faculty of Environmental Informatics, Thesis. ISBN:
+
+## AWARDS/FELLOWSHIPS
+|-----------|-------------------|
+|Sep, 2019  | 2019 Keio University IAB-Grad. Sch. Pharm. Sci. Join Retreat in TTCK, Best poster presentation, Keio University, 10,000 JPY|
+|April, 2018 – March, 2021| JSPS Research Fellowship DC1, Japan Society for the Promotion of Science, 2,500,000 JPY
+|March, 2018| SFC Aiso Award, Keio University, 40,000 JPY|
+|March, 2018| Representative of M.S. Graduates, Keio University, Graduate School of Media and Governance |
+|March, 2018|	Master thesis award (Systems Biology Program),	Keio University|
+|Sep, 2017|	Keio Life Science Symposium, Presentation Award, Keio University, 10,000 JPY|
+|April, 2017 – March, 2018| Taikichiro Mori Memorial Research Grants,	Keio University, 299,000JPY|
+|April, 2016 – March, 2017|	Koizumi Memorial Graduate School Special Scholarship, Keio University, 360,000 JPY|
+|March, 2016 |Graduation thesis award, Keio University, Advanced Biosciences Research group|
+|April, 2015 – March, 2016| Yamagishi Student Project Support Program, Keio University, 146,000 JPY|
+|April, 2013 – Present | Research Fellowship, Keio University, 8,880,000 JPY|
 
 ## Talks
 ### International
@@ -115,20 +108,40 @@
 1. **吉田祐貴**, 石黒宗, 荒川和晴, 國枝武和, 桑原宏和, 堀川大樹, 豊田敦, 片山俊明, 藤山秋佐夫, 冨田勝. “RNA-Seqデータを用いたヨコヅナクマムシにおける細胞防御・修復関連遺伝子の同定”. NGS現場の会 第三回研究会, 2013. 神戸.
 1. **吉田祐貴**, 石黒宗, 荒川和晴, 冨田勝. “ヨコヅナクマムシとその近縁種におけるDNA修復機構の遺伝子レパートリー解析”. 生命情報科学若手の会 第五回研究会, 2013. 千葉.
 
-## Funding
-- [Academic Year 2018-2021] JSPS DC1 (2,500,000JPY)
-- [Academic Year 2017-2018] Taikichiro Mori Memorial Research Fund Graduate Student Researcher Development Grant (299,000JPY)
-- [Academic Year 2016-2017] Koizumi Memorial Graduate School Special Scholarship (360,000JPY)
-- [Academic Year 2015-2016] Yamagishi Student Project Support Program (146,000JPY)
-- [Academic Year 2013/4-2017/9, 2018/4-] TTCK Research Assistant
 
-## Awards
-- [2019.9] 2019年度 慶大先端生命研-薬学研究科 合同リトリート「統合システム適塾」in 鶴岡キャンパス, 最優秀ポスター発表
-- [2018.3] Keio University SFC Aiso Award
-- [2018.3] Representative for Keio University Graduate School of Media and Governance Master’s course graduates
-- [2018.3] Master thesis award (Systems Biology Program)
-- [2017.8] Keio Life Science Symposium Presentation Award
-- [2016.3] Graduation thesis Award (Advanced Biosciences Research group)
+## TECHNICAL SKILLS
+- Fluent in English and native Japanese speaker
+  - Capable of international collaborations (Joint work with Prof. Mark Blaxter of Uni. Edinburgh)
+- Ability to conduct genomics and transcriptome analysis using Linux servers
+  - Genomic / transcriptome assembly, gene prediction and annotation
+  - Comparative genome / Pan genome analysis
+  - Differential expression analysis
+  -	Analysis of long-read data (Oxford Nanopore, PacBio)
+  -	Construction of bioinformatics pipelines
+  -	Data submission to NCBI (SRA/GEO/Genbank)
+  -	8-year experience with Perl and R languages, also can understand python
+- Culturing bacteria, tardigrades (Ramazzottius varieornatus), and human cell lines
+- Basic genetics using E. coli and human cell lines
+  - Plasmid construction and inoculation / transformation
+  - Cellular observations with fluorescence microscopes
+  - RNA-Seq library construction and sequencing on Illumina NextSeq 500 instrument
+- Flow cytometry with MACS instrument
+ 
+## MEDIA REPORTS
+1.	Biggest Hits – PLOS Biology in the Media in 2017 (16 Jan 2018) by Georgie Field and Roli Roberts
+https://blogs.plos.org/biologue/2018/01/16/biggest-hits-plos-biology-in-the-media-in-2017
+2.	BBC (28 July 2017) ‘Secrets of the world's toughest creatures revealed’ by Sarah Gabbott
+https://www.bbc.com/news/science-environment-40752669
+3.	CNN (27 Jul 2017) ‘The microscopic critter that can survive almost anything’ by Ashley Strickland
+https://edition.cnn.com/2017/07/27/health/tardigrade-water-bear-survival-study/index.html
+4.	Wired (27 Jul 2017) ‘How tardigrades come back from the dead’ by Joao Medeiros
+https://www.wired.co.uk/article/water-bears
+5.	The Scientist (27 Jul 2017) ‘Genomic Analysis Leaves Tardigrade Phylogeny Unclear’ by Abby Olena
+https://www.the-scientist.com/daily-news/genomic-analysis-leaves-tardigrade-phylogeny-unclear-31164
+6.	UPI (27 Jul 2017) ‘Tardigrade's DNA reveals water bears' secrets’ by Brooks Hays
+https://www.upi.com/Science_News/2017/07/27/Tardigrades-DNA-reveals-water-bears-secrets/3061501184471
+7.	Le monde (27 Jul 2017) ‘Les tardigrades, ces animaux qui résistent à tout’ by Par Pierre Trouvé
+https://www.lemonde.fr/sciences/video/2017/07/28/les-tardigrades-ces-animaux-qui-resistent-a-tout_5166296_1650684.html
  
 ## Classes assisted as SA/TA at Keio SFC
 - Systems of life (2013s)
@@ -154,3 +167,36 @@
 - [The Molecular Biology Society for Japan](https://www.mbsj.jp)
 - [Young Researchers Group for Computational/Omics/Systems Biology in Japan](https://www.bioinfowakate.org)
 - [The Zoological Society of Japan](https://www.zoology.or.jp)
+
+
+## REFERENCES
+- Masaru Tomita, Ph. D. (Ph. D. supervisor)
+  - Director, Professor
+  - Institute for Advanced Biosciences, Keio University
+  - Tsuruoka, 997-0035, Japan
+  - Phone: +81235290800
+  - E-mail: mt (at) sfc.keio.ac.jp 				
+- Kazuharu Arakawa, Ph. D. (Ph. D. advisor)
+  - Associate Professor
+  - Institute for Advanced Biosciences, Keio University 
+  - Tsuruoka, 997-0035, Japan
+  - Phone: +81235290800 
+  - E-mail: gaou (at) sfc.keio.ac.jp 
+- Mark Blaxter, Ph. D. (Co-author)			
+  - Programme Lead
+  - Tree of Life Programme, Wellcome Sanger Institute
+  - Cambridgeshire, CB10 1SA. UK
+  - Phone: +4401223834244
+  - E-mail: mb35 (at) sanger.ac.uk 				
+- Midori Matsumoto, Ph. D. (Co-author)
+  - Associate Professor
+  - Sch. of Fundamental Sci. and Tech., Keio University
+  - Yokohama, 223-8522, Japan
+  - Phone: +81455661448
+  - E-mail: mmatsumoto (at) bio.keio.ac.jp
+- Akio Kanai, Ph. D. (Ph. D. advisor)
+  - Professor
+  - Institute for Advanced Biosciences, Keio University
+  - Tsuruoka, 997-0035, Japan
+  - Phone: +81235290800
+  - E-mail: akio (at) sfc.keio.ac.jp
