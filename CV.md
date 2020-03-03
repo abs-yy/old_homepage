@@ -1,15 +1,19 @@
 | [Main](README.md) | [CV](CV.md) | [Access](access.md) | 
 ---------------------------------------------------------
 
-## EDUCATION
-| Date         | Name |
-| ------------ | ----- |
-| April, 2018 – March, 2021 |	Ph. D. Course, Systems Biology Program, SFC, Keio University|
-| March, 2018 |	M.M.G., Systems Biology Program, SFC, Keio University
-|             | Thesis: Comparative genomics of anhydrobiosis and DNA damage response in tardigrades |
-| March, 2016 | B.A., Faculty of Environment and Information Studies, Keio University|
-|             |Thesis: Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis |
+## HONORS
+- April 2018-March 2021
+  - JSPS Research Fellowship (DC1), **Japan Society for the Promotion of Science**, 3,000,000 JPY
 
+## EDUCATION
+- April, 2018 – March, 2021
+  - Ph. D. Course, Systems Biology Program, SFC, Keio University
+- March, 2018
+  - M.M.G., Systems Biology Program, SFC, Keio University
+  - **Thesis**: Comparative genomics of anhydrobiosis and DNA damage response in tardigrades
+- March, 2016
+  - B.A., Faculty of Environment and Information Studies, Keio University
+  - **Thesis**: Transcriptome analysis of the extremophile _Ramazzottius varieornatus_ aimed for the comprehensive identification of genes related to anhydrobiosis
 
 ## Employment History
 - [2013.4-2017.9] 2018.4-Current Keio University, Research Assistant
