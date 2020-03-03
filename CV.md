@@ -1,13 +1,15 @@
 | [Main](README.md) | [CV](CV.md) | [Access](access.md) | 
 ---------------------------------------------------------
 
-## Education
-- [2009.4-2012.3] Keio Senior High School
-- [2012.4-2016.3] Keio University, Department of Environment and Information Studies
-  - Thesis: Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis 
-- [2016.4-2018.3] Keio University, Graduate School of Media and Governance, Systems Biology Program, Masters Course
-  - Thesis: Comparative genomics of anhydrobiosis and DNA damage response in tardigrades 
-- [2018.4-Current] Keio Univeristy, Graduate School of Media and Governance, Systems Biology Program, Ph. D. Course
+## EDUCATION
+| Date         | Name |
+| ------------ | ----- |
+| April, 2018 – March, 2021 |	Ph. D. Course, Systems Biology Program, SFC, Keio University|
+| March, 2018 |	M.M.G., Systems Biology Program, SFC, Keio University
+|             | Thesis: Comparative genomics of anhydrobiosis and DNA damage response in tardigrades |
+| March, 2016 | B.A., Faculty of Environment and Information Studies, Keio University|
+|             |Thesis: Transcriptome analysis of the extremophile Ramazzottius varieornatus aimed for the comprehensive identification of genes related to anhydrobiosis |
+
 
 ## Employment History
 - [2013.4-2017.9] 2018.4-Current Keio University, Research Assistant
@@ -19,7 +21,7 @@
 1. **Yoshida, Y**, Sugiura, K, Tomita, M, Matsumoto, M, Arakawa, K (2019). Comparison of the transcriptomes of two tardigrades with different hatching coordination. BMC Dev. Biol., 19, 1:24.([DOI](https://doi.org/10.1186/s12861-019-0205-9), [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31864287))
 1. Kono, N, Nakamura, H, Ohtoshi, R, Moran, DAP, Shinohara, A, **Yoshida, Y**, Fujiwara, M, Mori, M, Tomita, M, Arakawa, K (2019). Orb-weaving spider Araneus ventricosus genome elucidates the spidroin gene catalogue. Sci Rep, 9, 1:8380.([DOI](https://doi.org/10.1038/s41598-019-44775-2), [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31182776))
 1. **Yoshida Y.**, Konno S., Nishino R., Murai Y., Tomita M., Arakawa K. (2018) Ultralow Input Genome Sequencing Library Preparation from a Single Tardigrade Specimen. J. Vis. Exp. (137), e57615, ([DOI](https://doi.org/10.3791/57615), [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30059025))
-1. **Yoshida Y**, Koutsovoulos G, Laetsch DR, Stevens L, Kumar S, Horikawa DD, et al. (2017) Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus. PLoS Biol .,15(7): e2002266. ([DOI](https://doi.org/10.1371/journal.pbio.2002266), [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28749982))
+1. **Yoshida Y.**, Koutsovoulos G., Laetsch DR., Stevens L., Kumar S., Horikawa DD., Ishino K., Komine S., Kunieda T., Tomita M., Blaxter M., Arakawa K. (2017) Comparative genomics of the tardigrades Hypsibius dujardini and Ramazzottius varieornatus. PLoS Biol .,15(7): e2002266. ([DOI](https://doi.org/10.1371/journal.pbio.2002266), [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28749982))
 1. Arakawa K, **Yoshida Y**, Tomita M. Genome sequencing of a single tardigrade Hypsibius dujardini individual, Sci. Data, 2016, 3:160063. ([DOI](https://doi.org/10.1038/sdata.2016.63), [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27529330))
 
 ### Thesis, Books
@@ -30,12 +32,9 @@
 ## AWARDS/FELLOWSHIPS
 |Month/Year | Name              |
 |-----------|-------------------|
-|Sep, 2019  | 2019 Keio University IAB-Grad. Sch. Pharm. Sci. Join Retreat in TTCK, Best poster presentation,  
-**Keio University**, 10,000 JPY|
-|April, 2018 – March, 2021| JSPS Research Fellowship DC1,  
-**Japan Society for the Promotion of Science**, 2,500,000 JPY
-|March, 2018| SFC Aiso Award,  
-**Keio University**, 40,000 JPY|
+|Sep, 2019  | 2019 Keio University IAB-Grad. Sch. Pharm. Sci. Join Retreat in TTCK, Best poster presentation, **Keio University**, 10,000 JPY|
+|April, 2018 – March, 2021| JSPS Research Fellowship DC1, **Japan Society for the Promotion of Science**, 2,500,000 JPY
+|March, 2018| SFC Aiso Award, **Keio University**, 40,000 JPY|
 |March, 2018| Representative of M.S. Graduates, **Keio University, Graduate School of Media and Governance** |
 |March, 2018|	Master thesis award (Systems Biology Program), **Keio University** |
 |Sep, 2017|	Keio Life Science Symposium, Presentation Award, **Keio University**, 10,000 JPY|
