@@ -30,17 +30,17 @@
 ## AWARDS/FELLOWSHIPS
 |Month/Year | Name              |
 |-----------|-------------------|
-|Sep, 2019  | 2019 Keio University IAB-Grad. Sch. Pharm. Sci. Join Retreat in TTCK, Best poster presentation, Keio University, 10,000 JPY|
-|April, 2018 – March, 2021| JSPS Research Fellowship DC1, Japan Society for the Promotion of Science, 2,500,000 JPY
-|March, 2018| SFC Aiso Award, Keio University, 40,000 JPY|
-|March, 2018| Representative of M.S. Graduates, Keio University, Graduate School of Media and Governance |
-|March, 2018|	Master thesis award (Systems Biology Program),	Keio University|
-|Sep, 2017|	Keio Life Science Symposium, Presentation Award, Keio University, 10,000 JPY|
-|April, 2017 – March, 2018| Taikichiro Mori Memorial Research Grants,	Keio University, 299,000JPY|
-|April, 2016 – March, 2017|	Koizumi Memorial Graduate School Special Scholarship, Keio University, 360,000 JPY|
-|March, 2016 |Graduation thesis award, Keio University, Advanced Biosciences Research group|
-|April, 2015 – March, 2016| Yamagishi Student Project Support Program, Keio University, 146,000 JPY|
-|April, 2013 – Present | Research Fellowship, Keio University, 8,880,000 JPY|
+|Sep, 2019  | 2019 Keio University IAB-Grad. Sch. Pharm. Sci. Join Retreat in TTCK, Best poster presentation, **Keio University**, 10,000 JPY|
+|April, 2018 – March, 2021| JSPS Research Fellowship DC1, **Japan Society for the Promotion of Science**, 2,500,000 JPY
+|March, 2018| SFC Aiso Award, **Keio University**, 40,000 JPY|
+|March, 2018| Representative of M.S. Graduates, **Keio University, Graduate School of Media and Governance** |
+|March, 2018|	Master thesis award (Systems Biology Program), **Keio University** |
+|Sep, 2017|	Keio Life Science Symposium, Presentation Award, **Keio University**, 10,000 JPY|
+|April, 2017 – March, 2018| Taikichiro Mori Memorial Research Grants, **Keio University**, 299,000JPY|
+|April, 2016 – March, 2017|	Koizumi Memorial Graduate School Special Scholarship, **Keio University**, 360,000 JPY|
+|March, 2016 |Graduation thesis award, **Keio University, Advanced Biosciences Research group**|
+|April, 2015 – March, 2016| Yamagishi Student Project Support Program, **Keio University**, 146,000 JPY|
+|April, 2013 – Present | Research Fellowship, **Keio University**, 8,880,000 JPY|
 
 ## Talks
 ### International
