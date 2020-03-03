@@ -28,6 +28,7 @@
 1. **Yoshida Y.** Comparative genomics of anhydrobiosis and DNA damage response in tardigrades. Keio University Faculty of Environmental Informatics, Thesis. ISBN:
 
 ## AWARDS/FELLOWSHIPS
+|Month/Year | Name              |
 |-----------|-------------------|
 |Sep, 2019  | 2019 Keio University IAB-Grad. Sch. Pharm. Sci. Join Retreat in TTCK, Best poster presentation, Keio University, 10,000 JPY|
 |April, 2018 – March, 2021| JSPS Research Fellowship DC1, Japan Society for the Promotion of Science, 2,500,000 JPY
