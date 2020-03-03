@@ -30,9 +30,12 @@
 ## AWARDS/FELLOWSHIPS
 |Month/Year | Name              |
 |-----------|-------------------|
-|Sep, 2019  | 2019 Keio University IAB-Grad. Sch. Pharm. Sci. Join Retreat in TTCK, Best poster presentation, **Keio University**, 10,000 JPY|
-|April, 2018 – March, 2021| JSPS Research Fellowship DC1, **Japan Society for the Promotion of Science**, 2,500,000 JPY
-|March, 2018| SFC Aiso Award, **Keio University**, 40,000 JPY|
+|Sep, 2019  | 2019 Keio University IAB-Grad. Sch. Pharm. Sci. Join Retreat in TTCK, Best poster presentation,  
+**Keio University**, 10,000 JPY|
+|April, 2018 – March, 2021| JSPS Research Fellowship DC1,  
+**Japan Society for the Promotion of Science**, 2,500,000 JPY
+|March, 2018| SFC Aiso Award,  
+**Keio University**, 40,000 JPY|
 |March, 2018| Representative of M.S. Graduates, **Keio University, Graduate School of Media and Governance** |
 |March, 2018|	Master thesis award (Systems Biology Program), **Keio University** |
 |Sep, 2017|	Keio Life Science Symposium, Presentation Award, **Keio University**, 10,000 JPY|
