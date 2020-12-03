@@ -7,7 +7,7 @@
 |-------------:|-----------------------------------------------------------:|
 | ORCID        | [0000-0003-2749-8171](https://orcid.org/0000-0003-2749-8171) |
 | Google Scholar | [-QhaEe0AAAAJ](https://scholar.google.co.jp/citations?user=-QhaEe0AAAAJ) |
-| Mail address | abs[a/t]sfc.keio.ac.jp                                     |
+| Mail address | feketerigoremet [a/t] gmail.com                                     |
 | Address      | Tsuruoka Metabolome Campus D25                             |
 |              | Zip: 997-0052                                              |
 |              | Kakuganji246-2, Mizukami, Tsuruoka City Yamagata, JAPAN.   |
